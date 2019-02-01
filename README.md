@@ -19,7 +19,7 @@ HOW TO RUN VIA VPS ( VIRTUAL PRIVATE SERVER )
 16. sudo pip3 install wikipedia
 17. sudo pip3 install youtube_dl
 18. sudo pip3 install ffmpy
-19. cd dpk
+19. cd alifself
 20. python3 sb.py
 
 
@@ -43,6 +43,6 @@ HOW TO RUN VIA TERMUX ( TERMINAL LINUX )
 17. pip3 install wikipedia
 18. pip3 install youtube_dl
 19. pip3 install ffmpy
-20. cd dpk
+20. cd alifself
 21. python3 sb.py
 
