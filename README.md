@@ -46,3 +46,4 @@ HOW TO RUN VIA TERMUX ( TERMINAL LINUX )
 20. cd alifself
 21. python3 sb.py
 
+https://line.me/ti/p/tpskRWpART
