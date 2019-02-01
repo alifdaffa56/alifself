@@ -25,7 +25,7 @@ call = client
 mid = [client]
 myMID = client.profile.mid
 Admin=[myMID]
-Owner=["ud296655acef67cbd5e8208e63629f78b"]
+Owner=["u278e1aba53aaf6b804c59c23aa0a0635"]
 Team = Admin + mid + Owner
 
 contact = client.getProfile()
@@ -79,7 +79,7 @@ Connect_to = {
     "Unban":False,
     "comment": "autolike by arif",
     "Admin": {
-        "ud296655acef67cbd5e8208e63629f78b":True #MID ADMIN TARO DISINI
+        "u278e1aba53aaf6b804c59c23aa0a0635":True #MID ADMIN TARO DISINI
     },
 }
 
